@@ -1,0 +1,41 @@
+ .page-title{ 
+
+ /* SHORTHAND MARGENS*/
+  margin: 50px auto 5px;
+  padding-left: 50px;
+  width: 60;
+  font-size: 30pt;
+  font-weight: bold;
+  color: #8E3200;
+}
+ 
+h2 {  
+
+  margin: 5px auto 25px;
+  margin-top: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+  padding-left: 50px;
+  width: 50;
+  font-size: 15pt;
+  color: #8E3200;
+}
+    main {
+    margin: 40px auto 5px;
+    padding-left: 10px;
+    }
+
+ .article-title{ 
+  margin: 50px auto 5px;
+  padding-left: 50px;
+  width: 60;
+  font-size: 30pt;
+  font-weight: bold;
+  color: #8E3200;
+}
+
+
+
+
+
