@@ -1,38 +1,105 @@
- .page-title{ 
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
- /* SHORTHAND MARGENS*/
-  margin: 50px auto 5px;
-  padding-left: 50px;
-  width: 60;
+.page-title {
+  /* SHORTHAND MARGENS*/    
+  margin: 40px auto 5px;
+  padding-left: 10px;
+  width: 80%;
   font-size: 30pt;
   font-weight: bold;
-  color: #8E3200;
+  color: #8E3200;       
 }
- 
-h2 {  
 
-  margin: 5px auto 25px;
+h {
+  /* margin: 5px auto 25px; */        
   margin-top: 5px;
-  margin-left: auto;
   margin-right: auto;
+  margin-left: auto;
   margin-bottom: 25px;
-  padding-left: 50px;
-  width: 50;
-  font-size: 15pt;
-  color: #8E3200;
-}
-    main {
-    margin: 40px auto 5px;
-    padding-left: 10px;
-    }
+  padding-left: 10px;
+  width: 80%;
+  font-size: 30px;
+  color: black;  
+} 
 
- .article-title{ 
-  margin: 50px auto 5px;
-  padding-left: 50px;
-  width: 60;
-  font-size: 30pt;
-  font-weight: bold;
-  color: #8E3200;
+
+h2 {
+  /* margin: 5px auto 25px; */        
+  margin-top: 5px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 25px;
+  padding-left: 10px;
+  width: 80%;
+  font-size: 30px;
+  color: #8E3200;   
+}    
+h3 {
+  /* margin: 5px auto 25px; */        
+  margin-top: 5px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 25px;
+  padding-left: 10px;
+  width: 80%;
+  font-size: 18px;
+  color: #8E3200; 
+}
+
+
+article{
+width: 80%;
+margin: 40px 05px;
+}
+
+p{
+  margin-top: 30px;
+}
+
+main{
+width: 80%;
+margin: 40px auto 5px;
+padding-left: 10px;
+}
+
+.article-title {
+/* SHORTHAND MARGENS*/    
+margin: 40px auto 5px;    
+font-size: 22pt;    
+color: #8E3200;       
+}
+
+.titulo-produto {
+/* SHORTHAND MARGENS*/    
+margin: 40px 0 5px; 
+font-family: 'Rubik', sans-serif;   
+font-size: 30pt;
+font-weight: 800px; 
+font-style: italic;   
+color: #ffffff;
+background-color: #8E3200;
+text-align: center;
+
+}
+
+.imagem-produto{
+width: 370px;
+margin-left: 10px;
+margin-right: 90px;
+margin-left: 80;
+padding-top: 30px;
+text-align: center;
+}
+
+footer {
+  background-color: #8E3200;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  font-size: 25px;
+  color:#ffffff;
+  height: 50px;
+  text-align: center;
+  border-radius: 10px;
 }
 
 
